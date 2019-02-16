@@ -1,15 +1,15 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class App extends Component {
-  constructor(){
+  constructor() {
     super(),
     this.state = {
 
     }
   }
 
-  render(){
-    return(
+  render() {
+    return (
       <h1 id='title'>Hello!!</h1>
     );
   }
