@@ -10,7 +10,7 @@ class App extends Component {
 
   render() {
     return (
-      <h1 id='title'>Hello!!</h1>
+      <h1 id='title'>Weather Forecast</h1>
     );
   }
 }
